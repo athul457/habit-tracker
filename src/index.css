@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.global {
+  overflow: hidden;
+  box-sizing: border-box;
+  padding: 0;
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+
+.flexes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
