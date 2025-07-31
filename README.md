@@ -63,5 +63,12 @@ frontend/
 
 ```bash
 git clone https://github.com/your-username/habit-tracker.git
-cd habit-tracker/frontend
+cd habit-tracker/frontend 
+```
+### Install Dependencies
+npm install 
+### Run the App
+npm run dev
+
+Open http://localhost:5173 in your browser.
 
