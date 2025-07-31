@@ -54,3 +54,14 @@ frontend/
 └── vite.config.js
 ```
 
+
+---
+
+## 🛠️ Installation & Local Setup
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/your-username/habit-tracker.git
+cd habit-tracker/frontend
+
