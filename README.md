@@ -47,8 +47,6 @@ frontend/
 │   ├── App.js
 │   ├── index.css
 │   └── main.jsx
-├── tailwind.config.js
-├── postcss.config.js
 ├── netlify.toml
 ├── package.json
 └── vite.config.js
