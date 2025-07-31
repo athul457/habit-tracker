@@ -18,9 +18,7 @@ A simple and elegant habit tracking web app built using **React 19**, **Vite**, 
 ## 🖼️ Demo
 
 **Live URL**  
-```
-new-habit-tracker-application.netlify.app
-```
+[new-habit-tracker-application.netlify.app](new-habit-tracker-application.netlify.app)
 
 ---
 
