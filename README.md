@@ -17,8 +17,8 @@ A simple and elegant habit tracking web app built using **React 19**, **Vite**, 
 
 ## 🖼️ Demo
 
-**Live URL**: _[Coming Soon]_  
-(Deploy using Netlify, Vercel, or GitHub Pages)
+**Live URL**  
+new-habit-tracker-application.netlify.app
 
 ---
 
